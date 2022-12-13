@@ -1,0 +1,17 @@
+C:\Users\Sony\source\repos\alışveriş_indirim_tutar_hesaplama\alışveriş_indirim_tutar_hesaplama\bin\Debug\net6.0-windows\alışveriş_indirim_tutar_hesaplama.exe
+C:\Users\Sony\source\repos\alışveriş_indirim_tutar_hesaplama\alışveriş_indirim_tutar_hesaplama\bin\Debug\net6.0-windows\alışveriş_indirim_tutar_hesaplama.deps.json
+C:\Users\Sony\source\repos\alışveriş_indirim_tutar_hesaplama\alışveriş_indirim_tutar_hesaplama\bin\Debug\net6.0-windows\alışveriş_indirim_tutar_hesaplama.runtimeconfig.json
+C:\Users\Sony\source\repos\alışveriş_indirim_tutar_hesaplama\alışveriş_indirim_tutar_hesaplama\bin\Debug\net6.0-windows\alışveriş_indirim_tutar_hesaplama.dll
+C:\Users\Sony\source\repos\alışveriş_indirim_tutar_hesaplama\alışveriş_indirim_tutar_hesaplama\bin\Debug\net6.0-windows\alışveriş_indirim_tutar_hesaplama.pdb
+C:\Users\Sony\source\repos\alışveriş_indirim_tutar_hesaplama\alışveriş_indirim_tutar_hesaplama\obj\Debug\net6.0-windows\alışveriş_indirim_tutar_hesaplama.csproj.AssemblyReference.cache
+C:\Users\Sony\source\repos\alışveriş_indirim_tutar_hesaplama\alışveriş_indirim_tutar_hesaplama\obj\Debug\net6.0-windows\alışveriş_indirim_tutar_hesaplama.Form1.resources
+C:\Users\Sony\source\repos\alışveriş_indirim_tutar_hesaplama\alışveriş_indirim_tutar_hesaplama\obj\Debug\net6.0-windows\alışveriş_indirim_tutar_hesaplama.csproj.GenerateResource.cache
+C:\Users\Sony\source\repos\alışveriş_indirim_tutar_hesaplama\alışveriş_indirim_tutar_hesaplama\obj\Debug\net6.0-windows\alışveriş_indirim_tutar_hesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sony\source\repos\alışveriş_indirim_tutar_hesaplama\alışveriş_indirim_tutar_hesaplama\obj\Debug\net6.0-windows\alışveriş_indirim_tutar_hesaplama.AssemblyInfoInputs.cache
+C:\Users\Sony\source\repos\alışveriş_indirim_tutar_hesaplama\alışveriş_indirim_tutar_hesaplama\obj\Debug\net6.0-windows\alışveriş_indirim_tutar_hesaplama.AssemblyInfo.cs
+C:\Users\Sony\source\repos\alışveriş_indirim_tutar_hesaplama\alışveriş_indirim_tutar_hesaplama\obj\Debug\net6.0-windows\alışveriş_indirim_tutar_hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\Sony\source\repos\alışveriş_indirim_tutar_hesaplama\alışveriş_indirim_tutar_hesaplama\obj\Debug\net6.0-windows\alışveriş_indirim_tutar_hesaplama.dll
+C:\Users\Sony\source\repos\alışveriş_indirim_tutar_hesaplama\alışveriş_indirim_tutar_hesaplama\obj\Debug\net6.0-windows\refint\alışveriş_indirim_tutar_hesaplama.dll
+C:\Users\Sony\source\repos\alışveriş_indirim_tutar_hesaplama\alışveriş_indirim_tutar_hesaplama\obj\Debug\net6.0-windows\alışveriş_indirim_tutar_hesaplama.pdb
+C:\Users\Sony\source\repos\alışveriş_indirim_tutar_hesaplama\alışveriş_indirim_tutar_hesaplama\obj\Debug\net6.0-windows\alışveriş_indirim_tutar_hesaplama.genruntimeconfig.cache
+C:\Users\Sony\source\repos\alışveriş_indirim_tutar_hesaplama\alışveriş_indirim_tutar_hesaplama\obj\Debug\net6.0-windows\ref\alışveriş_indirim_tutar_hesaplama.dll

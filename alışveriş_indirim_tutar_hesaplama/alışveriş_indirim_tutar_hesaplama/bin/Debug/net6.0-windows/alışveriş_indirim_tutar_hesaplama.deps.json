@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "alışveriş_indirim_tutar_hesaplama/1.0.0": {
+        "runtime": {
+          "alışveriş_indirim_tutar_hesaplama.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "alışveriş_indirim_tutar_hesaplama/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
